@@ -4,8 +4,10 @@ git clone https://github.com/votreusername/gestion-evenements.git
 
 ##naviguer dans le dossier gestion-evenements.git
 cd gestion-evenements
+
 ## compiler et executer
 mvn javafx:run
+##
 Un système complet de gestion d'événements implémentant des patrons de conception avancés avec une interface JavaFX moderne.
 
 ## ✨ Fonctionnalités
