@@ -1,6 +1,6 @@
 # 🎟️ Système de Gestion d'Événements (Java/JavaFX)
 ## pour cloner:
-git clone https://github.com/votreusername/gestion-evenements.git
+git clone https://github.com/BalaAndegue/TP_FINAL_2025.git
 
 ## naviguer dans le dossier gestion-evenements.git
 cd gestion-evenements
