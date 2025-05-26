@@ -2,7 +2,7 @@
 ## pour cloner:
 git clone https://github.com/BalaAndegue/TP_FINAL_2025.git
 
-## naviguer dans le dossier gestion-evenements.git
+## naviguer dans le dossier TP_FINAL_2025
 cd gestion-evenements
 
 ## compiler et executer
