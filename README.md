@@ -2,7 +2,7 @@
 ## pour cloner:
 git clone https://github.com/votreusername/gestion-evenements.git
 
-##naviguer dans le dossier gestion-evenements.git
+## naviguer dans le dossier gestion-evenements.git
 cd gestion-evenements
 
 ## compiler et executer
