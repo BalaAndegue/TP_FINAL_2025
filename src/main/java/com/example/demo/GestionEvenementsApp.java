@@ -856,8 +856,6 @@ public class GestionEvenementsApp extends Application {
         return label;
     }
 
-    // Les méthodes suivantes restent inchangées (afficherDialogueAjoutEvenement, afficherDialogueAjoutParticipant, etc.)
-    // ... (copier les méthodes existantes sans modification)
 
     public static void main(String[] args) {
         launch(args);
